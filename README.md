@@ -1,8 +1,26 @@
 
 <div align="center">
-  <h1>Hi there 👋</h1>
-  <img src="https://64.media.tumblr.com/f28231803aeb26ec32386617597fcb34/tumblr_o1nx4lxMCg1qcy62fo3_500.gifv"/>
+  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 </div>
+
+<!-->
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://64.media.tumblr.com/f28231803aeb26ec32386617597fcb34/tumblr_o1nx4lxMVCg1qcy62fo3_500.gifv"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://64.media.tumblr.com/f28231803aeb26ec32386617597fcb34/tumblr_o1nx4lxMCg1qcy62fo3_500.gifv"
+    />
+    <img
+      alt="The Division Loading Screen"
+      src="https://64.media.tumblr.com/f28231803aeb26ec32386617597fcb34/tumblr_o1nx4lxMCg1qcy62fo3_500.gifv"
+    />
+  </picture>
+</div>
+-->
 
 <!--
 **willyliu1705/willyliu1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
