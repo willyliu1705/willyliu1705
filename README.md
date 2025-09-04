@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>Hi there 👋</h2>
+  <h1>Hi there 👋</h1>
 </div>
 <!--
 **willyliu1705/willyliu1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
